@@ -11,6 +11,14 @@ const panoramaData = [
   ...scssecondfloor,
  ...scsthirdfloor,
   ...scsfourthfloor,
+
+   //HR BUILDING
+
+
+   ...hrsecondfloor,
+    ...hrthirdfloor,
+    ...hrfourthfloor,
+    ...hrfirstfloor,
   // add other files here
 ];
 /**
