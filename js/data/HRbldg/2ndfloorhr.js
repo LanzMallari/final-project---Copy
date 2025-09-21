@@ -9,7 +9,7 @@ const hrsecondfloor =[
     arrowPositions: {
       'Hr3rd4': { phi: Math.PI / 3, theta: Math.PI * 1.15, direction: 'up'},
       'Hr2nd2': { phi: Math.PI / 3, theta: Math.PI * 2.9, direction: 'up'},
-         'Hr2nd2': { phi: Math.PI / 3, theta: Math.PI * 2.9, direction: 'up'},
+        
        }
     },
     
@@ -19,7 +19,7 @@ const hrsecondfloor =[
     description: 'HR bldg. 2nd floor',
     imageUrl: 'images/Hrbldg/HR2ndfloor1.jpg',
     category: ['HR bldg.'],
-    connections: ['Hr2nd1','Hr2nd3','Hr1rd4'],
+    connections: ['Hr2nd3','Hr2nd1','Hr1rd4'],
     arrowPositions: {
       'Hr2nd3': { phi: Math.PI / 3, theta: Math.PI * 1.35, direction: 'up'},
       'Hr2nd1': { phi: Math.PI / 3, theta: Math.PI * 2.4, direction: 'up'},
